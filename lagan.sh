@@ -1,5 +1,3 @@
-============== lagan.sh
-
 #!/bin/bash
 POOL=ethash.unmineable.com:3333
 WALLET=USDT:0x6172c0d0139e0ce7431cabceae0f59cd49422166
